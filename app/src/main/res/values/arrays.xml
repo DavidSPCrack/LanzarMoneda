@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <array name="monedas">
+        <item>@drawable/head</item>
+        <item>@drawable/tails</item>
+    </array>
+</resources>
